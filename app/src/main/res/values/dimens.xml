@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="title_text_size">@dimen/_15ssp</dimen>
+    <dimen name="title_text_size">@dimen/_14ssp</dimen>
     <dimen name="normal_margin">@dimen/_12sdp</dimen>
     <dimen name="small_margin">@dimen/_5sdp</dimen>
 </resources>
